@@ -1,0 +1,23 @@
+{
+  "name": "meadow_brook",
+  "version": "1.0.0",
+  "description": "Vape Central Warehouse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "typings": "^2.1.0"
+  },
+  "author": "Perry Craft and Makai Takori",
+  "license": "ISC"
+}
